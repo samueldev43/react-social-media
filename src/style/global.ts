@@ -22,7 +22,7 @@ button {
     max-width: 1120px;
     height: 100vh;
     margin: 0 auto;
-    background: #29282e;
+    background: #29292e;
     padding: 2rem;
 }
 `
